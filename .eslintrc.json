@@ -1,0 +1,3 @@
+{
+  "extends": ["@arthurpedroti/eslint-config/node"]
+}
